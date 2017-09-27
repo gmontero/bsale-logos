@@ -1,6 +1,5 @@
-# bsale-logos
-Logos Bsale y imagen de marca
-
+# Logo Bsale
+![Logo Bsale](/logos/web/2017_08_09_logo_bsale_web_naranjo_500x200.png "Title")
 
 
 ### COLOR NARANJA:
