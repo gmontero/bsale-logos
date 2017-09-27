@@ -6,10 +6,10 @@
 | Uso | Formato | Valores |
 | :--- | :--- | :--- |
 | | | |
-| Web | HEX | #FF6815 |
-|    | RGB | 255, 104, 21 |
-| Impresos | CMYK | 0, 61, 97, 0 |
-|    | Pantone | 1585 C |
+| Web | HEX | ![#ff6815](https://placehold.it/15/f03c15/000000?text=+) `#ff6815` |
+|    | RGB | ![#ff6815](https://placehold.it/15/f03c15/000000?text=+) `255, 104, 21` |
+| Impresos | CMYK | ![#ff6815](https://placehold.it/15/f03c15/000000?text=+) `0, 61, 97, 0` |
+|    | Pantone | ![#ff6815](https://placehold.it/15/f03c15/000000?text=+) `1585 C` |
 
 
 ## Nomenclatura archivos:
